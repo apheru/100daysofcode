@@ -1,0 +1,17 @@
+# Day 002 Desafio - 15 Janeiro, 2024
+
+print("Conhecendo você!")
+print()
+name = input("Qual é o seu nome? ")
+food = input("Qual a sua comida favorita? ")
+music = input("Qual a sua música predileta? ")
+state = input("Onde você mora? ")
+print()
+print("Prazer te conhecer,")
+print(name)
+print("Provavelmente deve está afim de comer")
+print(food)
+print("e existe uma boa possibilidade de está curtindo")
+print(music)
+print("vivendo na incrível")
+print(state)
